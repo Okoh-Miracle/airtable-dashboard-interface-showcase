@@ -215,6 +215,7 @@ They can be used to visualize performance, activity, volume, or progress.
 
 ### Screenshot
 
+<img width="1081" height="622" alt="image" src="https://github.com/user-attachments/assets/43eaadff-2565-4249-81a7-d7976adada6b" />
 
 ---
 
@@ -235,7 +236,9 @@ CALENDAR / TIMELINE
   ↓
 DASHBOARD
 
-Each component serves a different purpose.
+----
+
+# Each component serves a different purpose.
 
 Form
 
