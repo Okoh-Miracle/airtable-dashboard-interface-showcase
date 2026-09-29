@@ -234,7 +234,8 @@ CALENDAR / TIMELINE
   ↓
 DASHBOARD
 
-----
+```text 
+
 
 ## How These Interfaces Work Together
 
